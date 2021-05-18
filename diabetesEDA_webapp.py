@@ -15,7 +15,7 @@ def main():
     Detect if someone has diabetes using machine learning and python !
     """)
 
-    image = Image.open('C:/Users/anike/Desktop/colg-Final/diabetes_prediction_project/Final Year Project Final/diabetes_logo.png')
+    image = Image.open('diabetes_logo.png')
     st.image(image, caption='ML', use_column_width=True)
 
     html_temp = """ 
