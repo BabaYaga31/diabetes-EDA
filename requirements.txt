@@ -4,3 +4,4 @@ Pillow==7.2.0
 streamlit==0.64.0
 matplotlib==3.0.3
 seaborn==0.11.1
+numpy==1.18.5
